@@ -1,4 +1,4 @@
-# Humble-BrainFuck-Interpreter-Very-humble
+# Humble-BrainFuck-Interpreter
 Just an humble bf interpreter written by c
 TO use this interpreter in command line ,just type 
 > ./BFitpt "your ***BrainFuck code here***"
