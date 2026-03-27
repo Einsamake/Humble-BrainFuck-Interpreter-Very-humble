@@ -5,5 +5,5 @@ TO use this interpreter in command line ,just type
 > 
 then it create a .c and .exe file
 no more
-***not support any kind of complex or overlong code***
+***not support any kind of complex or overlong code***\
 useless huh?
